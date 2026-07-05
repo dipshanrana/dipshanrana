@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nishan Ranabhat
+# 👋 Hi, I'm Dipshan Ranabhat
 
 ### 💻 Full Stack Developer | 🚀 Backend Enthusiast | ☁️ Cloud & DevOps Learner
 
