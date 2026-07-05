@@ -1,128 +1,99 @@
-<div align="center">
+# Nishan Ranabhat
 
-# 👋 Hi, I'm Dipshan Ranabhat
-
-### 💻 Full Stack Developer | 🚀 Backend Enthusiast | ☁️ Cloud & DevOps Learner
-
-*"Building scalable applications, writing clean code, and continuously learning new technologies."*
-
-</div>
+I'm a full-stack developer who enjoys building web applications with Java and JavaScript. Most of my work focuses on backend development using Spring Boot while also building responsive frontends with React and Next.js. I also enjoy deploying applications on cloud servers and experimenting with DevOps tools.
 
 ---
 
-## 🚀 About Me
+## Tech Stack
 
-I'm a passionate **Full Stack Developer** who loves transforming ideas into real-world applications. I enjoy designing modern user interfaces, building robust backend systems, and deploying applications to the cloud.
-
-- 💡 Passionate about solving real-world problems through code
-- 🌱 Constantly learning modern web technologies
-- ⚙️ Focused on writing clean, maintainable, and scalable applications
-- 📚 Always exploring better development practices and new tools
-- 🚀 Interested in Backend Development, Cloud Computing, and DevOps
-
----
-
-# 💻 Tech Stack
-
-### 👨‍💻 Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+  <img src="https://cdn.simpleicons.org/openjdk" height="40" alt="Java"/>
+  <img src="https://cdn.simpleicons.org/python" height="40" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/javascript" height="40" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/html5" height="40" alt="HTML"/>
+  <img src="https://cdn.simpleicons.org/css" height="40" alt="CSS"/>
 </p>
 
-### 🎨 Frontend Development
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+  <img src="https://cdn.simpleicons.org/react" height="40" alt="React"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs" height="40" alt="Next.js"/>
 </p>
 
-### ⚙️ Backend Development
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://cdn.simpleicons.org/springboot" height="40" alt="Spring Boot"/>
 </p>
 
-- Spring Boot
 - Java Servlets
 - REST APIs
 
-### 🐳 DevOps & Deployment
+### DevOps & Hosting
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws" />
+  <img src="https://cdn.simpleicons.org/docker" height="40" alt="Docker"/>
+  <img src="https://cdn.simpleicons.org/amazonaws" height="40" alt="AWS"/>
+  <img src="https://cdn.simpleicons.org/linux" height="40" alt="Linux"/>
 </p>
 
-- Docker
-- AWS Hosting
-- VPS Deployment
 - Coolify
+- VPS Deployment
 
-### 🗄️ Database
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://cdn.simpleicons.org/mysql" height="40" alt="MySQL"/>
 </p>
 
-### 🛠️ Development Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+  <img src="https://cdn.simpleicons.org/git" height="40" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github" height="40" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/postman" height="40" alt="Postman"/>
+  <img src="https://cdn.simpleicons.org/intellijidea" height="40" alt="IntelliJ"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode" height="40" alt="VS Code"/>
 </p>
 
 ---
 
-# 🚀 What I Love Building
+## What I Work On
 
-✨ Full Stack Web Applications
-
-⚡ RESTful APIs
-
-🔐 Authentication & Authorization Systems
-
-📊 Admin Dashboards
-
-🛒 E-Commerce Platforms
-
-🏋️ Gym Management Systems
-
-📱 Responsive & Modern User Interfaces
-
-☁️ Cloud Hosted Applications
-
-🐳 Dockerized Services
-
-⚙️ Backend Systems with Spring Boot
+- Full-stack web applications
+- REST API development
+- Authentication and authorization
+- Spring Boot backend services
+- React & Next.js frontend applications
+- Dockerized deployments
+- Cloud and VPS hosting
+- Database design and integration
 
 ---
 
-# 🌱 Currently Learning
+## Currently Learning
 
-- Microservices Architecture
-- System Design
+- Microservices
 - Kubernetes
-- CI/CD Pipelines
-- Advanced AWS Services
-- Performance Optimization
+- CI/CD
+- AWS Services
+- System Design
 
 ---
 
-# 📌 Development Philosophy
+## Featured Projects
 
-```text
-✔ Write Clean Code
-✔ Build Scalable Systems
-✔ Keep Learning Every Day
-✔ Focus on User Experience
-✔ Automate Everything Possible
-✔ Never Stop Improving
-```
+### Gym Management System
+
+A complete gym management platform built with **Spring Boot**, **Next.js**, **JWT Authentication**, **Docker**, **MySQL**, and deployed using **Coolify**.
+
+### E-commerce Platform
+
+Java Servlet based e-commerce application featuring user authentication, shopping cart, wishlist, checkout, and order management.
 
 ---
 
-<div align="center">
-
-### 🚀 "Code. Learn. Build. Repeat."
-
-⭐ Thanks for visiting my profile!
-
-</div>
+I enjoy learning new technologies and building projects that help me improve as a developer.
